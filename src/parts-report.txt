@@ -1,0 +1,40 @@
+Name: Flash Drive
+Description: Ultra Slim 16GB External
+Price: 104.5
+Quantity: 5
+
+Name: Handyscan Scanner
+Description: SkyPix Portable Easy Handheld Memory Card
+Price: 65.8
+Quantity: 4
+
+Name: Notebook Computer
+Description: 32 GB RAM IBM Wireless
+Price: 25.5
+Quantity: 5
+
+Name: Samsung Monitor
+Description: 24X46 Flat LCD screen
+Price: 872.2
+Quantity: 5
+
+Name: iPad
+Description: Apple 32GB RAM
+Price: 2324.5
+Quantity: 5
+
+Name: Tab 10.0 Tablet
+Description: Samsung Galaxy
+Price: 401.2
+Quantity: 5
+
+Name: Intel Chipset ATX
+Description: Graphics Technology in an integrated GPU
+Price: 230.0
+Quantity: 5
+
+Name: External hard Drive
+Description: Toshiba 500GB 2.5'
+Price: 234.5
+Quantity: 5
+
